@@ -1,4 +1,4 @@
-﻿using Blazor.Extensions.Canvas.Canvas2D;
+@*﻿using Blazor.Extensions.Canvas.Canvas2D;
 using Blazor.Extensions;
 using Microsoft.JSInterop;
 
@@ -30,4 +30,4 @@ namespace Weed.Pages
             await _outputCanvasContext.StrokeTextAsync($"time: {timeStamp}", 20, 80);
         }
     }
-}
+}*@
